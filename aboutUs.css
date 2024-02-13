@@ -1,0 +1,30 @@
+h1{
+    background-color: pink ;
+    color: aqua;
+    border-radius: 45%;
+    text-align: center;
+    border: solid 3px;
+    text-shadow: 4px 4px
+    5px aquamarine;
+}
+
+img{
+    size: 100%;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    transform: rotate(20px);
+
+}
+
+p{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button{
+    background-color: azure;
+    padding: 50px;
+    cursor: copy;
+    
+}
