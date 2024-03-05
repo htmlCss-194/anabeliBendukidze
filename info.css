@@ -1,0 +1,22 @@
+.flex-container {
+    display: flex;
+    background-color: DodgerBlue;
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+  h4{
+    font-size: 25px;
+    background-color: pink;
+    border-radius: 15px;
+
+  }
+  h3{
+    font-size: 35px;
+    background-color: rgb(139, 139, 255);
+    border-radius: 2px 4px 2px 4px;
+  }

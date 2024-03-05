@@ -1,0 +1,36 @@
+h3{
+  background-color: aquamarine;
+  border-radius: 5px;
+  text-align: center;
+  padding: 25px;
+  margin-top: 15px;
+}
+
+p:first-child{
+  border: aqua dashed 3px;
+  color: black dashed;
+  padding: 30px;
+}
+ 
+.icons{
+    width: 30px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.icons img{
+    padding-right: 20px;
+    display: flex ;
+
+}
+
+#icon1{
+    padding-left: 400px;
+}
+ input{
+    padding: 5px;
+    background-color: crimson;
+    
+ }

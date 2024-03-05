@@ -1,0 +1,17 @@
+h2{
+    background-color: darkgoldenrod;
+    border-radius: 8px;
+    border: solid 3px gold;
+}
+
+img{
+    transform: rotate(20%);
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: 300px;
+}
+p{
+    background-color: orange;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

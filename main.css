@@ -1,0 +1,96 @@
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    text-align: center;
+    font-style: normal;
+    background-color:rgb(9, 167, 47); 
+    padding: 50px;
+    align-items: center;
+    justify-content: space-between;
+    flex-shrink: 0;
+
+}
+
+#leaf{
+    height: 50px;
+    size: 50px;
+
+}
+.Navlinks{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: Georgia, 'Times New Roman', Times;
+    font-size: 24px;
+
+    
+}
+.end{
+    background-color: green;
+    justify-content: center;
+    display: flex;
+    padding: 50px;
+    margin: 40px;
+    font-size: 25px;
+}
+a{
+    padding-top:10px ;
+    padding-left: 15px;
+}
+
+.Navlinks a {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    padding-right: 25px;
+}
+.Title{
+    display: flex;
+    justify-content: center;
+}
+#nature{
+    height: 200px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+ button{
+    padding: 20px;
+    background-color: green;
+    text-align: center;
+    color: antiquewhite;
+    cursor: pointer;
+ }
+ button:hover{
+    background-color: blue;
+    padding: 10px;
+ }
+ #eco{
+    background-color: rgb(145, 64, 64);
+    border: 4 px dashed gray;
+    columns: white;
+    padding: 35px;
+ }
+ ol{
+    background-color: rgb(137, 184, 67);
+    padding: 7px;
+ }
+
+h4{
+    border-radius: 20px solid 3px;
+    background-color: green;
+    border: dashed 2px;
+}
+b{
+    border-radius:  4px ;
+    border: 2px solid bisque;
+    font-size: 28px;
+}
+#feedback{
+    padding: 30px;
+    background-color: green;
+    cursor: pointer;
+}
+
